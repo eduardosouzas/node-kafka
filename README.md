@@ -30,8 +30,3 @@ Code Challenge - Micro-service with Node.js and Kafka
 2. Move to the appropriate directory;<br />
 3. Run `yarn` to install dependencies.<br />
 4. Run `yarn start`.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
