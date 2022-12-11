@@ -11,7 +11,7 @@
     "sucrase": "^3.10.1"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "kafkajs": "^1.11.0"
   }
 }
